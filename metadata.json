@@ -1,0 +1,6 @@
+{
+  "name": "Astuces Hay Day – Guide Ultime & Stratégies 2026",
+  "description": "Le guide de référence des astuces Hay Day : gagner des pièces rapidement, obtenir des diamants gratuits, maîtriser le wheating et optimiser la grange et le silo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
